@@ -1,0 +1,232 @@
+2023-10-02 18:43:30,305 :INFO : test_e2e : getting all the cart titles
+2023-10-02 18:43:30,358 :INFO : test_e2e : iphone X
+2023-10-02 18:43:30,370 :INFO : test_e2e : Samsung Note 8
+2023-10-02 18:43:30,383 :INFO : test_e2e : Nokia Edge
+2023-10-02 18:43:30,400 :INFO : test_e2e : Blackberry
+2023-10-02 18:43:30,818 :INFO : test_e2e : Entering country name as ind
+2023-10-02 18:43:36,534 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-02 18:50:38,236 :INFO : test_form_submission : The first name is Jitu
+2023-10-02 18:50:44,904 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-02 18:50:45,163 :INFO : test_form_submission : The first name is Aditi
+2023-10-02 18:50:45,163 :INFO : test_form_submission : The first name is Aditi
+2023-10-02 18:50:51,783 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-02 18:50:51,783 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-02 18:51:10,444 :INFO : test_e2e : getting all the cart titles
+2023-10-02 18:51:10,502 :INFO : test_e2e : iphone X
+2023-10-02 18:51:10,515 :INFO : test_e2e : Samsung Note 8
+2023-10-02 18:51:10,525 :INFO : test_e2e : Nokia Edge
+2023-10-02 18:51:10,535 :INFO : test_e2e : Blackberry
+2023-10-02 18:51:10,907 :INFO : test_e2e : Entering country name as ind
+2023-10-02 18:51:16,772 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-02 18:55:51,795 :INFO : test_form_submission : The first name is Jitu
+2023-10-02 18:55:58,414 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-02 18:55:58,662 :INFO : test_form_submission : The first name is Aditi
+2023-10-02 18:55:58,662 :INFO : test_form_submission : The first name is Aditi
+2023-10-02 18:56:05,317 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-02 18:56:05,317 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-02 18:56:15,573 :INFO : test_e2e : getting all the cart titles
+2023-10-02 18:56:15,632 :INFO : test_e2e : iphone X
+2023-10-02 18:56:15,649 :INFO : test_e2e : Samsung Note 8
+2023-10-02 18:56:15,665 :INFO : test_e2e : Nokia Edge
+2023-10-02 18:56:15,682 :INFO : test_e2e : Blackberry
+2023-10-02 18:56:16,071 :INFO : test_e2e : Entering country name as ind
+2023-10-02 18:56:21,766 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-04 08:48:25,947 :INFO : test_form_submission : The first name is Jitu
+2023-10-04 08:48:32,425 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:48:32,603 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 08:48:32,603 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 08:48:39,047 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:48:39,047 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:48:51,442 :INFO : test_e2e : getting all the cart titles
+2023-10-04 08:48:51,475 :INFO : test_e2e : iphone X
+2023-10-04 08:48:51,482 :INFO : test_e2e : Samsung Note 8
+2023-10-04 08:48:51,489 :INFO : test_e2e : Nokia Edge
+2023-10-04 08:48:51,494 :INFO : test_e2e : Blackberry
+2023-10-04 08:48:51,793 :INFO : test_e2e : Entering country name as ind
+2023-10-04 08:48:57,312 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-04 08:49:32,561 :INFO : test_form_submission : The first name is Jitu
+2023-10-04 08:49:39,450 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:49:41,489 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 08:49:41,489 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 08:49:48,504 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:49:48,504 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:50:03,810 :INFO : test_e2e : getting all the cart titles
+2023-10-04 08:50:03,840 :INFO : test_e2e : iphone X
+2023-10-04 08:50:03,844 :INFO : test_e2e : Samsung Note 8
+2023-10-04 08:50:03,856 :INFO : test_e2e : Nokia Edge
+2023-10-04 08:50:03,860 :INFO : test_e2e : Blackberry
+2023-10-04 08:50:04,621 :INFO : test_e2e : Entering country name as ind
+2023-10-04 08:50:10,625 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-04 08:57:56,373 :INFO : test_form_submission : The first name is Jitu
+2023-10-04 08:58:03,362 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:58:04,656 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 08:58:04,656 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 08:58:11,700 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:58:11,700 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 08:58:31,093 :INFO : test_e2e : getting all the cart titles
+2023-10-04 08:58:31,122 :INFO : test_e2e : iphone X
+2023-10-04 08:58:31,128 :INFO : test_e2e : Samsung Note 8
+2023-10-04 08:58:31,133 :INFO : test_e2e : Nokia Edge
+2023-10-04 08:58:31,137 :INFO : test_e2e : Blackberry
+2023-10-04 08:58:31,884 :INFO : test_e2e : Entering country name as ind
+2023-10-04 08:58:37,887 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-04 09:01:56,922 :INFO : test_form_submission : The first name is Jitu
+2023-10-04 09:02:03,762 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 09:02:04,775 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 09:02:04,775 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 09:02:11,804 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 09:02:11,804 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 09:02:25,308 :INFO : test_e2e : getting all the cart titles
+2023-10-04 09:02:25,336 :INFO : test_e2e : iphone X
+2023-10-04 09:02:25,344 :INFO : test_e2e : Samsung Note 8
+2023-10-04 09:02:25,348 :INFO : test_e2e : Nokia Edge
+2023-10-04 09:02:25,352 :INFO : test_e2e : Blackberry
+2023-10-04 09:02:26,187 :INFO : test_e2e : Entering country name as ind
+2023-10-04 09:02:32,403 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-04 09:05:46,439 :INFO : test_form_submission : The first name is Jitu
+2023-10-04 09:05:53,449 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 09:05:54,482 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 09:05:54,482 :INFO : test_form_submission : The first name is Aditi
+2023-10-04 09:06:01,666 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 09:06:01,666 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-04 09:06:19,734 :INFO : test_e2e : getting all the cart titles
+2023-10-04 09:06:19,769 :INFO : test_e2e : iphone X
+2023-10-04 09:06:19,776 :INFO : test_e2e : Samsung Note 8
+2023-10-04 09:06:19,782 :INFO : test_e2e : Nokia Edge
+2023-10-04 09:06:19,789 :INFO : test_e2e : Blackberry
+2023-10-04 09:06:20,608 :INFO : test_e2e : Entering country name as ind
+2023-10-04 09:06:26,858 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-06 08:03:51,479 :INFO : test_form_submission : The first name is Jitu
+2023-10-06 08:03:58,514 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:04:00,830 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:04:00,830 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:04:08,041 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:04:08,041 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:04:37,294 :INFO : test_e2e : getting all the cart titles
+2023-10-06 08:04:37,400 :INFO : test_e2e : iphone X
+2023-10-06 08:04:37,416 :INFO : test_e2e : Samsung Note 8
+2023-10-06 08:04:37,434 :INFO : test_e2e : Nokia Edge
+2023-10-06 08:04:37,450 :INFO : test_e2e : Blackberry
+2023-10-06 08:04:38,409 :INFO : test_e2e : Entering country name as ind
+2023-10-06 08:04:44,732 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-06 08:08:32,249 :INFO : test_form_submission : The first name is Jitu
+2023-10-06 08:08:39,354 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:08:41,061 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:08:41,061 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:08:48,323 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:08:48,323 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:09:06,634 :INFO : test_e2e : getting all the cart titles
+2023-10-06 08:09:06,700 :INFO : test_e2e : iphone X
+2023-10-06 08:09:06,719 :INFO : test_e2e : Samsung Note 8
+2023-10-06 08:09:06,733 :INFO : test_e2e : Nokia Edge
+2023-10-06 08:09:06,749 :INFO : test_e2e : Blackberry
+2023-10-06 08:09:07,657 :INFO : test_e2e : Entering country name as ind
+2023-10-06 08:09:13,870 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-06 08:15:27,593 :INFO : test_form_submission : The first name is Jitu
+2023-10-06 08:15:34,707 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:15:36,672 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:15:36,672 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:15:43,939 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:15:43,939 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:16:04,800 :INFO : test_e2e : getting all the cart titles
+2023-10-06 08:16:04,849 :INFO : test_e2e : iphone X
+2023-10-06 08:16:04,860 :INFO : test_e2e : Samsung Note 8
+2023-10-06 08:16:04,869 :INFO : test_e2e : Nokia Edge
+2023-10-06 08:16:04,876 :INFO : test_e2e : Blackberry
+2023-10-06 08:16:05,855 :INFO : test_e2e : Entering country name as ind
+2023-10-06 08:16:12,726 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-06 08:19:34,668 :INFO : test_form_submission : The first name is Jitu
+2023-10-06 08:19:41,691 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:19:44,929 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:19:44,929 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:19:52,175 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:19:52,175 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:20:10,474 :INFO : test_e2e : getting all the cart titles
+2023-10-06 08:20:10,584 :INFO : test_e2e : iphone X
+2023-10-06 08:20:10,602 :INFO : test_e2e : Samsung Note 8
+2023-10-06 08:20:10,619 :INFO : test_e2e : Nokia Edge
+2023-10-06 08:20:10,646 :INFO : test_e2e : Blackberry
+2023-10-06 08:20:11,557 :INFO : test_e2e : Entering country name as ind
+2023-10-06 08:20:17,924 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-06 08:20:35,814 :INFO : test_form_submission : The first name is Jitu
+2023-10-06 08:20:42,803 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:20:44,818 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:20:44,818 :INFO : test_form_submission : The first name is Aditi
+2023-10-06 08:20:52,068 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:20:52,068 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-06 08:21:12,178 :INFO : test_e2e : getting all the cart titles
+2023-10-06 08:21:12,273 :INFO : test_e2e : iphone X
+2023-10-06 08:21:12,291 :INFO : test_e2e : Samsung Note 8
+2023-10-06 08:21:12,308 :INFO : test_e2e : Nokia Edge
+2023-10-06 08:21:12,326 :INFO : test_e2e : Blackberry
+2023-10-06 08:21:13,217 :INFO : test_e2e : Entering country name as ind
+2023-10-06 08:21:19,557 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-08 07:46:20,369 :INFO : test_form_submission : The first name is Aditi Singh
+2023-10-08 07:46:26,872 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-08 07:47:09,257 :INFO : test_form_submission : The first name is Aditi Singh
+2023-10-08 07:47:16,417 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-08 07:47:32,158 :INFO : test_e2e : getting all the cart titles
+2023-10-08 07:47:32,188 :INFO : test_e2e : iphone X
+2023-10-08 07:47:32,192 :INFO : test_e2e : Samsung Note 8
+2023-10-08 07:47:32,197 :INFO : test_e2e : Nokia Edge
+2023-10-08 07:47:32,201 :INFO : test_e2e : Blackberry
+2023-10-08 07:47:32,974 :INFO : test_e2e : Entering country name as ind
+2023-10-08 07:47:39,044 :INFO : test_e2e : Test received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-10-08 07:53:50,254 :INFO : test_form_submission : The first name is Jitu Singh
+2023-10-08 07:53:56,755 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.
+2023-10-08 07:54:14,843 :INFO : test_form_submission : The first name is Jitu Singh
+2023-10-08 07:54:21,327 :INFO : test_form_submission : The submission message is displayed as: ×
+Success! The Form has been submitted successfully!.

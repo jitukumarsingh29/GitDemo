@@ -1,0 +1,537 @@
+1694328198494	geckodriver	INFO	Listening on 127.0.0.1:56539
+1694328201616	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56540" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilecTmgTC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694328202020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694328202122	Marionette	INFO	Listening on port 56548
+WebDriver BiDi listening on ws://127.0.0.1:56540
+Read port: 56548
+1694328202385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56540/devtools/browser/e62cfd6e-0049-4b19-8786-1fd27c34e93f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694328218033	Marionette	INFO	Stopped listening on port 56548
+Dynamically enable window occlusion 1
+1694407090239	geckodriver	INFO	Listening on 127.0.0.1:57125
+1694407093380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57126" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilepCYYqQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694407094021	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694407094122	Marionette	INFO	Listening on port 57133
+WebDriver BiDi listening on ws://127.0.0.1:57126
+Read port: 57133
+1694407094374	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57126/devtools/browser/e5c79fd7-db3b-479e-ba99-68987fdec374
+1694407099720	Marionette	INFO	Stopped listening on port 57133
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.sys.mjs, line 720: TypeError: this.tablesData[table] is undefined
+1694407458315	geckodriver	INFO	Listening on 127.0.0.1:57192
+1694407461388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileEqEZkT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694407461763	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694407461836	Marionette	INFO	Listening on port 57200
+WebDriver BiDi listening on ws://127.0.0.1:57193
+Read port: 57200
+1694407461995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57193/devtools/browser/4d486464-1dd5-46f3-a2df-d6470fd22c7d
+1694407465040	Marionette	INFO	Stopped listening on port 57200
+Dynamically enable window occlusion 1
+1694407754264	geckodriver	INFO	Listening on 127.0.0.1:57234
+1694407757320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofile9em1ad"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694407757688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694407757758	Marionette	INFO	Listening on port 57242
+WebDriver BiDi listening on ws://127.0.0.1:57235
+Read port: 57242
+1694407757833	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57235/devtools/browser/48b69b82-3623-4110-a234-91899173f149
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694407774231	Marionette	INFO	Stopped listening on port 57242
+Dynamically enable window occlusion 1
+1694408247724	geckodriver	INFO	Listening on 127.0.0.1:57316
+1694408250782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilex3HVeC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694408251091	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694408251160	Marionette	INFO	Listening on port 57324
+WebDriver BiDi listening on ws://127.0.0.1:57317
+Read port: 57324
+1694408251384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57317/devtools/browser/48fed75c-c84f-4396-90a4-439b390feb63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1694408257181	Marionette	INFO	Stopped listening on port 57324
+Dynamically enable window occlusion 1
+1694408497598	geckodriver	INFO	Listening on 127.0.0.1:57372
+1694408500655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57373" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileYPu5g8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694408501071	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694408501142	Marionette	INFO	Listening on port 57380
+WebDriver BiDi listening on ws://127.0.0.1:57373
+Read port: 57380
+1694408501360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57373/devtools/browser/d5832416-3f8e-49f2-bd30-00c48bdbf323
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694408507912	Marionette	INFO	Stopped listening on port 57380
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1694408570155	geckodriver	INFO	Listening on 127.0.0.1:57420
+1694408573229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileARLuah"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694408573575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694408573644	Marionette	INFO	Listening on port 57428
+WebDriver BiDi listening on ws://127.0.0.1:57421
+Read port: 57428
+1694408573861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57421/devtools/browser/fb9ccd1f-204f-47bf-9475-c70f572833df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694408577749	Marionette	INFO	Stopped listening on port 57428
+Dynamically enable window occlusion 1
+1694408600749	geckodriver	INFO	Listening on 127.0.0.1:57465
+1694408603806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofiley2Mw5b"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694408604147	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694408604218	Marionette	INFO	Listening on port 57473
+WebDriver BiDi listening on ws://127.0.0.1:57466
+Read port: 57473
+1694408604426	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57466/devtools/browser/6f86b6ce-b527-4a11-919e-02dfcba0710a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694408620665	Marionette	INFO	Stopped listening on port 57473
+Dynamically enable window occlusion 1
+1694412528118	geckodriver	INFO	Listening on 127.0.0.1:58392
+1694412531193	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilemzGPO6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694412531764	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694412531865	Marionette	INFO	Listening on port 58401
+WebDriver BiDi listening on ws://127.0.0.1:58393
+Read port: 58401
+1694412532150	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58393/devtools/browser/6e51ad9f-54ca-4ee9-97b1-63f465b2dc9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694412536695	Marionette	INFO	Stopped listening on port 58401
+Dynamically enable window occlusion 1
+1694413009611	geckodriver	INFO	Listening on 127.0.0.1:58681
+1694413012671	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58682" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilexMbl7s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694413012977	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694413013069	Marionette	INFO	Listening on port 58690
+WebDriver BiDi listening on ws://127.0.0.1:58682
+Read port: 58690
+1694413013288	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58682/devtools/browser/ace1913e-26bb-4246-bbbf-831b8637a100
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694413018305	Marionette	INFO	Stopped listening on port 58690
+Dynamically enable window occlusion 1
+1694413138409	geckodriver	INFO	Listening on 127.0.0.1:58789
+1694413141471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileeNOJsy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694413141823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694413141913	Marionette	INFO	Listening on port 58802
+Read port: 58802
+WebDriver BiDi listening on ws://127.0.0.1:58790
+1694413141989	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58790/devtools/browser/33e3b5a1-af95-4231-8ae2-0a1cd209c87d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694413155163	Marionette	INFO	Stopped listening on port 58802
+Dynamically enable window occlusion 1
+1694413502881	geckodriver	INFO	Listening on 127.0.0.1:59018
+1694413505954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileZSA1pA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1694413506282	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1694413506353	Marionette	INFO	Listening on port 59030
+WebDriver BiDi listening on ws://127.0.0.1:59019
+Read port: 59030
+1694413506569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59019/devtools/browser/77f8ac90-2e56-4f04-8acf-4356b58f29a8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1694413525896	Marionette	INFO	Stopped listening on port 59030
+Dynamically enable window occlusion 1
+1696389562277	geckodriver	INFO	Listening on 127.0.0.1:54062
+1696389565363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilerB9pmN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696389565828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696389565911	Marionette	INFO	Listening on port 54071
+WebDriver BiDi listening on ws://127.0.0.1:54063
+Read port: 54071
+1696389566152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54063/devtools/browser/29d54081-973b-49ca-9cf8-cde8b4e5c299
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696389590265	Marionette	INFO	Stopped listening on port 54071
+Dynamically enable window occlusion 1
+1696389593335	geckodriver	INFO	Listening on 127.0.0.1:54129
+1696389596364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54130" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofiledZWAiC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696389596649	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696389596716	Marionette	INFO	Listening on port 54137
+WebDriver BiDi listening on ws://127.0.0.1:54130
+Read port: 54137
+1696389596920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54130/devtools/browser/f6a6056c-1390-46c0-a66a-2f9ce88a8565
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696389613636	Marionette	INFO	Stopped listening on port 54137
+JavaScript warning: https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js, line 1: Script terminated by timeout at:
+get@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20536
+ZSR1/</e.invokeTask@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20436
+ZSR1/</e/this.invoke<@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20334
+ZSR1/</W/u/n.args[0]@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:35669
+
+Dynamically enable window occlusion 1
+1696390066859	geckodriver	INFO	Listening on 127.0.0.1:54234
+1696390069931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54235" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofile307TRT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696390070313	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696390070386	Marionette	INFO	Listening on port 54242
+WebDriver BiDi listening on ws://127.0.0.1:54235
+Read port: 54242
+1696390070462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54235/devtools/browser/fe411891-f20e-4668-99db-14f2eeded489
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696390092740	Marionette	INFO	Stopped listening on port 54242
+Dynamically enable window occlusion 1
+1696390095888	geckodriver	INFO	Listening on 127.0.0.1:54294
+1696390098960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilebdy7mk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696390099272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696390099344	Marionette	INFO	Listening on port 54302
+WebDriver BiDi listening on ws://127.0.0.1:54295
+Read port: 54302
+1696390099556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54295/devtools/browser/c0ea2d32-5530-45ae-9516-3ada95271dab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696390120908	Marionette	INFO	Stopped listening on port 54302
+JavaScript warning: https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js, line 1: Script terminated by timeout at:
+get@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20536
+ZSR1/</e.invokeTask@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20436
+ZSR1/</e/this.invoke<@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20334
+ZSR1/</W/u/n.args[0]@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:35669
+
+Dynamically enable window occlusion 1
+1696390307983	geckodriver	INFO	Listening on 127.0.0.1:54377
+1696390311044	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54378" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileFad33d"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696390311366	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696390311436	Marionette	INFO	Listening on port 54385
+WebDriver BiDi listening on ws://127.0.0.1:54378
+Read port: 54385
+1696390311639	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54378/devtools/browser/b13e3797-3e19-4a65-94a5-6f5c46738627
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696390332830	Marionette	INFO	Stopped listening on port 54385
+Dynamically enable window occlusion 1
+1696390335921	geckodriver	INFO	Listening on 127.0.0.1:54438
+1696390338991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54439" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofile9zRVrs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696390339384	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696390339453	Marionette	INFO	Listening on port 54446
+WebDriver BiDi listening on ws://127.0.0.1:54439
+Read port: 54446
+1696390339667	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54439/devtools/browser/c5a0c47b-f2be-4ea0-832a-cd5e25d5a883
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696390355415	Marionette	INFO	Stopped listening on port 54446
+JavaScript warning: https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js, line 1: Script terminated by timeout at:
+ZSR1/</e.invokeTask@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20388
+ZSR1/</e/this.invoke<@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20334
+ZSR1/</W/u/n.args[0]@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:35669
+
+Dynamically enable window occlusion 1
+1696390537424	geckodriver	INFO	Listening on 127.0.0.1:54510
+1696390540501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofiledAHR8x"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696390540828	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696390540901	Marionette	INFO	Listening on port 54520
+WebDriver BiDi listening on ws://127.0.0.1:54511
+Read port: 54520
+1696390541109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54511/devtools/browser/dc8adbed-b718-42f4-8d72-dcd699859bc3
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696390562871	Marionette	INFO	Stopped listening on port 54520
+Dynamically enable window occlusion 1
+1696390566363	geckodriver	INFO	Listening on 127.0.0.1:54571
+1696390569415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54572" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileZ8OUue"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696390569794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696390569866	Marionette	INFO	Listening on port 54579
+WebDriver BiDi listening on ws://127.0.0.1:54572
+Read port: 54579
+1696390569939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54572/devtools/browser/8759ca63-4997-4041-b9b9-62f94bd7046c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696390589865	Marionette	INFO	Stopped listening on port 54579
+Dynamically enable window occlusion 1
+1696559615807	geckodriver	INFO	Listening on 127.0.0.1:60184
+1696559618938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilex9TYio"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696559619545	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696559619635	Marionette	INFO	Listening on port 60204
+WebDriver BiDi listening on ws://127.0.0.1:60185
+Read port: 60204
+1696559619898	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60185/devtools/browser/65fe9099-1c3d-4466-ae51-008f6ac74395
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696559650188	Marionette	INFO	Stopped listening on port 60204
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+1696559650735	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/public-suffix-list getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1696559655993	geckodriver	INFO	Listening on 127.0.0.1:60303
+1696559659092	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60304" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileKVKEGy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696559659528	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696559659601	Marionette	INFO	Listening on port 60318
+WebDriver BiDi listening on ws://127.0.0.1:60304
+Read port: 60318
+1696559659825	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60304/devtools/browser/a950771d-f678-4519-a974-2f585a099f7b
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696559687752	Marionette	INFO	Stopped listening on port 60318
+Dynamically enable window occlusion 1
+1696559899135	geckodriver	INFO	Listening on 127.0.0.1:60481
+1696559902224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60482" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilelei3Tr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696559902666	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696559902739	Marionette	INFO	Listening on port 60493
+WebDriver BiDi listening on ws://127.0.0.1:60482
+Read port: 60493
+1696559902966	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60482/devtools/browser/836f819e-da8f-414d-bb6d-a406ed21baf7
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696559930233	Marionette	INFO	Stopped listening on port 60493
+Dynamically enable window occlusion 1
+1696559933685	geckodriver	INFO	Listening on 127.0.0.1:60590
+1696559936759	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileLiLFkG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696559937163	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696559937237	Marionette	INFO	Listening on port 60598
+WebDriver BiDi listening on ws://127.0.0.1:60591
+Read port: 60598
+1696559937469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60591/devtools/browser/69cc18ce-f61a-46d5-956b-878e0e15cfdf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696559956887	Marionette	INFO	Stopped listening on port 60598
+Dynamically enable window occlusion 1
+1696560313221	geckodriver	INFO	Listening on 127.0.0.1:60795
+1696560316320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilexyHrmL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696560317018	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696560317119	Marionette	INFO	Listening on port 60804
+WebDriver BiDi listening on ws://127.0.0.1:60796
+Read port: 60804
+1696560317391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60796/devtools/browser/d2608f7e-579f-4f11-9843-7a286cbd2171
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696560345797	Marionette	INFO	Stopped listening on port 60804
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5406: TypeError: request.channel is null
+JavaScript error: resource://gre/modules/AddonManager.sys.mjs, line 1284: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1696560350195	geckodriver	INFO	Listening on 127.0.0.1:60868
+1696560353236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileekW2pn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696560353603	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696560353675	Marionette	INFO	Listening on port 60876
+Read port: 60876
+WebDriver BiDi listening on ws://127.0.0.1:60869
+1696560353755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60869/devtools/browser/294d690f-0082-4a0a-80c8-84856c490e11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696560375763	Marionette	INFO	Stopped listening on port 60876
+Dynamically enable window occlusion 1
+1696560563488	geckodriver	INFO	Listening on 127.0.0.1:60967
+1696560566574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileyRrgW1"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696560567160	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696560567237	Marionette	INFO	Listening on port 60975
+WebDriver BiDi listening on ws://127.0.0.1:60968
+Read port: 60975
+1696560567311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60968/devtools/browser/272d248e-119a-4884-b1ae-9d65c862bfd5
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696560594195	Marionette	INFO	Stopped listening on port 60975
+Dynamically enable window occlusion 1
+1696560598421	geckodriver	INFO	Listening on 127.0.0.1:61044
+1696560601491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61045" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilexok0xL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696560601924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696560602000	Marionette	INFO	Listening on port 61052
+WebDriver BiDi listening on ws://127.0.0.1:61045
+Read port: 61052
+1696560602226	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61045/devtools/browser/1c68a05d-0733-4a7c-af6a-ffc7169a40ac
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696560620942	Marionette	INFO	Stopped listening on port 61052
+Dynamically enable window occlusion 1
+1696560626322	geckodriver	INFO	Listening on 127.0.0.1:61099
+1696560629372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61100" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileLhUA8Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696560629722	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696560629799	Marionette	INFO	Listening on port 61111
+Read port: 61111
+WebDriver BiDi listening on ws://127.0.0.1:61100
+1696560629872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61100/devtools/browser/f887b285-1848-429d-ac1c-c1a63b6c6586
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696560653420	Marionette	INFO	Stopped listening on port 61111
+Dynamically enable window occlusion 1
+1696560657550	geckodriver	INFO	Listening on 127.0.0.1:61169
+1696560660635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61170" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofilesKdCfw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696560661044	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696560661119	Marionette	INFO	Listening on port 61177
+WebDriver BiDi listening on ws://127.0.0.1:61170
+Read port: 61177
+1696560661348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61170/devtools/browser/e99849cd-7ec7-4d32-83b1-a11c232a8f18
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696560682574	Marionette	INFO	Stopped listening on port 61177
+Dynamically enable window occlusion 1
+1696731419469	geckodriver	INFO	Listening on 127.0.0.1:50431
+1696731422561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileAWGclr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696731423033	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696731423120	Marionette	INFO	Listening on port 50444
+WebDriver BiDi listening on ws://127.0.0.1:50432
+Read port: 50444
+1696731423370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50432/devtools/browser/06890c2a-c57a-45f7-8769-23dc3eccfaaa
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696731437445	Marionette	INFO	Stopped listening on port 50444
+Dynamically enable window occlusion 1
+1696731440605	geckodriver	INFO	Listening on 127.0.0.1:50524
+1696731443664	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\jituk\\AppData\\Local\\Temp\\rust_mozprofileLc8GaB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696731444117	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696731444202	Marionette	INFO	Listening on port 50535
+Read port: 50535
+WebDriver BiDi listening on ws://127.0.0.1:50525
+1696731444286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50525/devtools/browser/51a4910e-4b4c-472e-ac67-b608878161ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://rahulshettyacademy.com."
+1696731462068	Marionette	INFO	Stopped listening on port 50535
+JavaScript warning: https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js, line 1: Script terminated by timeout at:
+get@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20536
+ZSR1/</e.invokeTask@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20436
+ZSR1/</e/this.invoke<@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:20334
+ZSR1/</W/u/n.args[0]@https://rahulshettyacademy.com/angularpractice/polyfills.b6b2cd0d4c472ac3ac12.bundle.js:1:35669
+
+Dynamically enable window occlusion 1
